@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Student;
 
-class StudentsControlle extends Controller
+class StudentsController extends Controller
 {
     /**
      * Display a listing of the resource.
